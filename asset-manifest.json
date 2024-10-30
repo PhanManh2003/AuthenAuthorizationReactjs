@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AuthenAuthorizationReactjs/static/css/main.d221dc40.css",
+    "main.js": "/AuthenAuthorizationReactjs/static/js/main.59f65ba7.js",
+    "index.html": "/AuthenAuthorizationReactjs/index.html",
+    "main.d221dc40.css.map": "/AuthenAuthorizationReactjs/static/css/main.d221dc40.css.map",
+    "main.59f65ba7.js.map": "/AuthenAuthorizationReactjs/static/js/main.59f65ba7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.59f65ba7.js"
+  ]
+}
